@@ -1,6 +1,6 @@
 ## cabocha-filter
 
-cacocha-filter
+cabocha-filter
 
 ## Author
 
